@@ -5,6 +5,8 @@
 
 This is a list of lists of commit count milestones for the GitHub repositories of [`@seanpm2001`](https://github.com/seanpm2001/) the list is currently non-functional, and its entries are highly incomplete/missing.
 
+**Bolded** entries are confirmed to contain data
+
 | Milestone | List of repositories |
 |---|---|
 | 10 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/10/) |
@@ -28,9 +30,10 @@ This is a list of lists of commit count milestones for the GitHub repositories o
 | 4096 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/4096/) |
 | 5000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/5000/) |
 | 8192 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/8192/) |
-| 10000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/10000/) |
+| 10000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/10000/)** |
 | **No repository of mine has gone past this point yet.** | **No repository of mine has gone past this point yet.** |
 | 15000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/15000/) |
+| 16348 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/15000/) |
 | 20000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/20000/) |
 | 25000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/25000/) |
 | 30000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/30000/) |
@@ -56,6 +59,7 @@ This is a list of lists of commit count milestones for the GitHub repositories o
 | 250000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/250000/) |
 | 256000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/256000/) |
 | 262144 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/262144/) |
+| 270000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/270000/) |
 | 300000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/300000/) |
 | 350000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/350000/) |
 | 360000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/360000/) |
@@ -78,6 +82,17 @@ This is a list of lists of commit count milestones for the GitHub repositories o
 | 900000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/900000/) |
 | 950000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/950000/) |
 | 1000000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/1000000/) |
+| 1048576 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/1048576/) |
+
+***
+
+## Frequently Asked Questions (FAQ)
+
+Since no-one has asked anything yet, I will answer the first common question I can think of.
+
+### What is with the random numbers? 65536, 1048576, etc.
+
+These numbers aren't random. I included every power of 2 from 2^4 (16) to 2^20 (1048576) 2^16 = 65536, 2^20 = 1048576 and so on. Some other not so common numbers (such as 270,000) were included, as they are unique numbers to me. 
 
 ***
 
@@ -87,9 +102,9 @@ This is a list of lists of commit count milestones for the GitHub repositories o
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Monday, August 15th at 12:51 am PST)`
+**File version:** `2 (2022, Monday, August 15th at 8:41 pm PST)`
 
-**Line count (including blank lines and compiler line):** `130`
+**Line count (including blank lines and compiler line):** `160`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -121,6 +136,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Monday, August 15th at 8:41 am PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table
+- [x] Added the `FAQ (Frequently Asked Questions)` section
+- - [x] Added the `What is with the random numbers? 65536, 1048576, etc.` subsection
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
