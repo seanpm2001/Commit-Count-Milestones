@@ -5,7 +5,7 @@
 
 ## Projects that have reached 1000 commits
 
-As of 2022, Monday, August 17th, an uncounted number (at least 25) of my repositories have reached and/or surpassed 1,000 commits. They include:
+As of 2022, Monday, August 17th, an uncounted number (at least 27) of my repositories have reached and/or surpassed 1,000 commits. They include:
 
 | Repository | Reached 1000 commits on this date |
 |---|---|
@@ -19,6 +19,8 @@ As of 2022, Monday, August 17th, an uncounted number (at least 25) of my reposit
 | [`GitHub_Organization_Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) | **UNKNOWN DATE** |
 | [`Seanpm2001-GitHub-Pages-Collection`](https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection/) | 2022, August 15th |
 | [`Daily-Desktop-Screenshots`](https://github.com/seanpm2001/Daily-Desktop-Screenshots/) | 2022, March 19th |
+| [`SeansLifeArchive_Images_Battery`](https://github.com/seanpm2001/SeansLifeArchive_Images_Battery/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_TinyTower`](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_ModernSmurfsVillage`](https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage/) | 2022, April 26th |
 | [`SeansLifeArchive_Images_MotorWorld_CarFactory`](https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory/) | 2022, July 31st |
 | [`SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-`](https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-/) | 2021, December 28th |
@@ -35,6 +37,25 @@ As of 2022, Monday, August 17th, an uncounted number (at least 25) of my reposit
 | [`SeansLifeArchive_Images_GitHub_Y2022`](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub_Y2022/) | 2022, April 21st |
 | [`SeansLifeArchive_Images_Hay-Day`](https://github.com/seanpm2001/SeansLifeArchive_Images_Hay-Day/) | **UNKNOWN DATE** |
 
+<!-- Didn't reach 1000 yet, but thought it might have (2022.08.17)
+Idle Miner Tycoon
+Clash Royale
+Pocket Frogs
+Hay Day
+Egg Inc
+Merge Plane
+Tiny Tower Vegas
+MCPYE
+Video Directory
+SNU
+pvz2
+Marine Biology
+ProtonDrive
+Food Index
+Tree World V0
+Tree World V1
+!-->
+
 There may be some not listed here, as not all may have been found yet.
 
 ***
@@ -45,9 +66,9 @@ There may be some not listed here, as not all may have been found yet.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Wednesday, August 17th at 9:27 pm PST)`
+**File version:** `2 (2022, Wednesday, August 17th at 9:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `88`
+**Line count (including blank lines and compiler line):** `123`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -79,6 +100,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Wednesday, August 17th at 9:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table, with 2 new entries, 27 entries total
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
