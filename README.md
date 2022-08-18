@@ -22,7 +22,7 @@ This is a list of lists of commit count milestones for the GitHub repositories o
 | 256 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/256/) |
 | 500 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/500/) |
 | 512 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/512/) |
-| 1000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/1000/) |
+| 1000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/1000/)** |
 | 1024 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/1024/) |
 | 2000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/2000/) |
 | 2048 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/2048/) |
@@ -102,9 +102,9 @@ These numbers aren't random. I included every power of 2 from 2^4 (16) to 2^20 (
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Monday, August 15th at 8:41 pm PST)`
+**File version:** `3 (2022, Wednesday, August 17th at 9:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `160`
+**Line count (including blank lines and compiler line):** `176`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -139,7 +139,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><p lang="en"><b>Version 2 (2022, Monday, August 15th at 8:41 am PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 2 (2022, Monday, August 15th at 8:41 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -151,6 +151,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Wednesday, August 17th at 9:32 pm PST)</b></p></summary>
+
+_With this commit, this project has reached 100 commits_
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table
+- - [x] Bolded the **1000** entry to confirm it has data (data was recently added)
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 3
 
 </details>
 
