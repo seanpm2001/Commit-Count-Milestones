@@ -9,27 +9,27 @@ This is a list of lists of commit count milestones for the GitHub repositories o
 
 | Milestone | List of repositories |
 |---|---|
-| 10 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/10/) |
-| 16 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/16/) |
-| 25 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/25/) |
-| 32 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/32/) |
-| 50 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/50/) |
-| 64 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/64/) |
-| 75 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/75/) |
-| 100 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/100/) |
-| 128 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/128/) |
-| 250 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/250/) |
-| 256 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/256/) |
-| 500 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/500/) |
-| 512 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/512/) |
+| 10 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/10/)** |
+| 16 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/16/)** |
+| 25 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/25/)** |
+| 32 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/32/)** |
+| 50 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/50/)** |
+| 64 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/64/)** |
+| 75 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/75/)** |
+| 100 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/100/)** |
+| 128 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/128/)** |
+| 250 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/250/)** |
+| 256 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/256/)** |
+| 500 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/500/)** |
+| 512 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/512/)** |
 | 1000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/1000/)** |
-| 1024 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/1024/) |
-| 2000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/2000/) |
-| 2048 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/2048/) |
-| 2500 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/2500/) |
-| 4096 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/4096/) |
-| 5000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/5000/) |
-| 8192 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/8192/) |
+| 1024 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/1024/)** |
+| 2000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/2000/)** |
+| 2048 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/2048/)** |
+| 2500 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/2500/)** |
+| 4096 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/4096/)** |
+| 5000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/5000/)** |
+| 8192 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/8192/)** |
 | 10000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/10000/)** |
 | **No repository of mine has gone past this point yet.** | **No repository of mine has gone past this point yet.** |
 | 15000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/15000/) |
@@ -96,15 +96,21 @@ These numbers aren't random. I included every power of 2 from 2^4 (16) to 2^20 (
 
 ***
 
+## Software tools
+
+I am developing software tools to ease and aid the development of lists, and also allow others to do similar. The project is written in Python. It is under the same license as the source project, and can be found [here](/Tools/CCM/)
+
+***
+
 ### File info
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Wednesday, August 17th at 9:32 pm PST)`
+**File version:** `4 (2022, Thursday, August 18th at 6:04 pm PST)`
 
-**Line count (including blank lines and compiler line):** `176`
+**Line count (including blank lines and compiler line):** `197`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -167,6 +173,21 @@ _With this commit, this project has reached 100 commits_
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Thursday, August 18th at 6:04 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table
+- - [x] Bolded the **10**, **16**, **25**, **32**, **50**, **64**, **75**, **100**, **128**, **250**, **256**, **500**, **512**, **1024**, **2000**, **2048**, **2500**, **4096**, and **8192** entries to confirm they has data (data was recently added)
+- [x] Added the `software tools` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 4
 
 </details>
 
