@@ -7,7 +7,7 @@
 
 **THIS LIST IS EXTREMELY INCOMPLETE!**
 
-As of 2022, Thursday, August 18th, an uncounted number (at least 250) of my repositories have reached and/or surpassed 16 commits. They include:
+As of 2022, Friday, August 19th, an uncounted number (at least 259) of my repositories have reached and/or surpassed 16 commits. They include:
 
 | Repository | Reached 16 commits on this date |
 |---|---|
@@ -261,6 +261,15 @@ As of 2022, Thursday, August 18th, an uncounted number (at least 250) of my repo
 | [`DOS-Buddy`](https://github.com/seanpm2001/DOS-Buddy/) | **UNKNOWN DATE** |
 | [`RubbleRobot`](https://github.com/seanpm2001/RubbleRobot/) | **UNKNOWN DATE** |
 | [`Submissions`](https://github.com/seanpm2001/Submissions/) | **UNKNOWN DATE** |
+| [`PongMax`](https://github.com/seanpm2001/PongMax/) | 2022, August 10th |
+| [`uOffice_SpellCheck`](https://github.com/seanpm2001/uOffice_SpellCheck/) | 2022, August 19th |
+| [`BWS_Hardware`](https://github.com/seanpm2001/BWS_Hardware/) | 2022, August 19th |
+| [`BWS_Hardware_Ice`](https://github.com/seanpm2001/BWS_Hardware_Ice/) | 2022, August 19th |
+| [`BWS_Icicle`](https://github.com/seanpm2001/BWS_Icicle/) | 2022, August 19th |
+| [`BWS_IceCube`](https://github.com/seanpm2001/BWS_IceCube/) | 2022, August 19th |
+| [`BWS_IceBlocks`](https://github.com/seanpm2001/BWS_IceBlocks/) | 2022, August 19th |
+| [`BWS_IceBerg`](https://github.com/seanpm2001/BWS_IceBerg/) | 2022, August 19th |
+| [`BWS_Zamboni`](https://github.com/seanpm2001/BWS_Zamboni/) | 2022, August 19th |
 
 <!-- Didn't reach 500 yet, but thought it might have (2022.08.18)
 https://github.com/seanpm2001/Meadows (4)
@@ -311,9 +320,9 @@ There are several hundred entries not listed here, as not all may have been foun
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Thursday, August 18th at 5:38 pm PST)`
+**File version:** `2 (2022, Friday, August 19th at 7:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `354`
+**Line count (including blank lines and compiler line):** `376`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -345,6 +354,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Friday, August 19th at 7:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 9 entries, now totaling 259.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
