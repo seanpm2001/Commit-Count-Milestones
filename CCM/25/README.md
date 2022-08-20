@@ -1,4 +1,6 @@
 
+
+
 ***
 
 # Commit Count Milestones
@@ -7,7 +9,7 @@
 
 **THIS LIST IS HIGHLY INCOMPLETE!**
 
-As of 2022, Thursday, August 18th, an uncounted number (at least 215) of my repositories have reached and/or surpassed 25 commits. They include:
+As of 2022, Friday, August 19th, an uncounted number (at least 217) of my repositories have reached and/or surpassed 25 commits. They include:
 
 | Repository | Reached 25 commits on this date |
 |---|---|
@@ -226,6 +228,8 @@ As of 2022, Thursday, August 18th, an uncounted number (at least 215) of my repo
 | [`BathHouseOS_Core_ControlPanel`](https://github.com/seanpm2001/BathHouseOS_Core_ControlPanel/) | **UNKNOWN DATE** |
 | [`Bosky`](https://github.com/seanpm2001/Bosky/) | **UNKNOWN DATE** |
 | [`SNU_OSKillers`](https://github.com/seanpm2001/SNU_OSKillers/) | **UNKNOWN DATE** |
+| [`PongMax`](https://github.com/seanpm2001/PongMax/) | 2022, August 11th |
+| [`uOffice_SpellCheck`](https://github.com/seanpm2001/uOffice_SpellCheck/) | 2022, August 19th |
 
 <!-- Didn't reach 500 yet, but thought it might have (2022.08.18)
 https://github.com/seanpm2001/Meadows (4)
@@ -311,9 +315,9 @@ There are many not listed here, as not all may have been found yet. This list is
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Thursday, August 18th at 5:22 pm PST)`
+**File version:** `2 (2022, Friday, August 19th at 7:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `354`
+**Line count (including blank lines and compiler line):** `371`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -345,6 +349,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Friday, August 19th at 7:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 2 entries, now totaling 217.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
