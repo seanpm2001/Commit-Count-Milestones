@@ -7,7 +7,7 @@
 
 **THIS LIST IS EXTREMELY INCOMPLETE!**
 
-As of 2022, Friday, August 19th, an uncounted number (at least 259) of my repositories have reached and/or surpassed 16 commits. They include:
+As of 2022, Saturday, August 20th, an uncounted number (at least 261) of my repositories have reached and/or surpassed 16 commits. They include:
 
 | Repository | Reached 16 commits on this date |
 |---|---|
@@ -270,45 +270,8 @@ As of 2022, Friday, August 19th, an uncounted number (at least 259) of my reposi
 | [`BWS_IceBlocks`](https://github.com/seanpm2001/BWS_IceBlocks/) | 2022, August 19th |
 | [`BWS_IceBerg`](https://github.com/seanpm2001/BWS_IceBerg/) | 2022, August 19th |
 | [`BWS_Zamboni`](https://github.com/seanpm2001/BWS_Zamboni/) | 2022, August 19th |
-
-<!-- Didn't reach 500 yet, but thought it might have (2022.08.18)
-https://github.com/seanpm2001/Meadows (4)
-https://github.com/seanpm2001/SeansLifeArchive (2)
-https://github.com/seanpm2001/DMail (1)
-https://github.com/seanpm2001/SNU_Extras (13)
-https://github.com/seanpm2001/SNU_2D_Software_Center (15)
-https://github.com/seanpm2001/Stop-reading-from-Google-Books (8)
-https://github.com/seanpm2001/Why-you-should-stop-using-Android (8)
-https://github.com/seanpm2001/SNU_2D_TypographyDocs (15)
-https://github.com/seanpm2001/AcroSlideXLIBrary (12)
-https://github.com/seanpm2001/IGNORE_File (13)
-https://github.com/seanpm2001/SeansLifeArchive_Images_Topwar_BattleGame_Clickbait (10)
-https://github.com/seanpm2001/Metric-System (13)
-https://github.com/seanpm2001/ReasonableOverflow_LIBrary (14)
-https://github.com/seanpm2001/CottonTree-LIBrary (15)
-https://github.com/seanpm2001/Pocket-village (11)
-https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_minecraft_myphobias (15)
-https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Terracottacon (5)
-https://github.com/seanpm2001/SeansLifeArchive_Extras_MinecraftPE (4)
-https://github.com/seanpm2001/Self-replicating-machine-research (10)
-https://github.com/seanpm2001/Gist_Seanpm_OnGitHub (12)
-https://github.com/seanpm2001/Desktop (11)
-https://github.com/seanpm2001/Linux.Desktop (9)
-https://github.com/seanpm2001/Hyper-realistic-farm-simulator (10)
-https://github.com/seanpm2001/Meadows_Emergency-Alert-System (14)
-https://github.com/seanpm2001/Snapshots-Version-Control-System (12)
-https://github.com/seanpm2001/SNU_System (15)
-https://github.com/seanpm2001/WhyWatchOS (10)
-https://github.com/seanpm2001/The-Microsoft-Pact (14)
-https://github.com/seanpm2001/NimbleBit-Glossary (13)
-https://github.com/seanpm2001/SNU_VideoSettings (8)
-https://github.com/seanpm2001/PersonalKiosk (8)
-https://github.com/seanpm2001/Nost_Gia_OS (14)
-https://github.com/seanpm2001/OS_Census (14)
-https://github.com/seanpm2001/SDE_Gyroscope (11) 
-https://github.com/seanpm2001/CompuBunker (12)
-https://github.com/seanpm2001/Programmers-Day (21)
-!-->
+| [`BlAPK`](https://github.com/seanpm2001/BlAPK/) | 2022, January 9th |
+| [`BlazeOS_App_Store`](https://github.com/seanpm2001/BlazeOS_App_Store/) | 2022, January 9th |
 
 There are several hundred entries not listed here, as not all may have been found yet. This list is highly/extremely incomplete.
 
@@ -320,9 +283,9 @@ There are several hundred entries not listed here, as not all may have been foun
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Friday, August 19th at 7:40 pm PST)`
+**File version:** `3 (2022, Saturday, August 20th at 9:04 pm PST)`
 
-**Line count (including blank lines and compiler line):** `376`
+**Line count (including blank lines and compiler line):** `353`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -367,6 +330,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Saturday, August 20th at 9:04 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 2 entries, now totaling 261.
+- [x] Removed all unrelated comments
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 3
 
 </details>
 
