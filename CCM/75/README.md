@@ -5,7 +5,7 @@
 
 ## Projects that have reached 75 commits
 
-As of 2022, Thursday, August 18th, an uncounted number (at least 133) of my repositories have reached and/or surpassed 75 commits. They include:
+As of 2022, Saturday, August 20th, an uncounted number (at least 135) of my repositories have reached and/or surpassed 75 commits. They include:
 
 | Repository | Reached 75 commits on this date |
 |---|---|
@@ -142,163 +142,8 @@ As of 2022, Thursday, August 18th, an uncounted number (at least 133) of my repo
 | [`SeansLifeArchive_Extras_Google-Drive`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Google-Drive/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_VirtualBox`](https://github.com/seanpm2001/SeansLifeArchive_Images_VirtualBox/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_Transmission_-BitTorrent-Client-`](https://github.com/seanpm2001/SeansLifeArchive_Images_Transmission_-BitTorrent-Client-/) | **UNKNOWN DATE** |
-
-<!-- Didn't reach 500 yet, but thought it might have (2022.08.18)
-https://github.com/seanpm2001/Meadows (4)
-https://github.com/seanpm2001/TalkScript (48)
-https://github.com/seanpm2001/SeansLifeArchive_Images_OneDrive (31)
-https://github.com/seanpm2001/SeansLifeArchive_Extras_OneDrive (28)
-https://github.com/seanpm2001/SNU_2D_DennisRitchieMemorial (70)
-https://github.com/seanpm2001/SNU_2D_HTTPStatusCodeList (39)
-https://github.com/seanpm2001/Ucuntu (71)
-https://github.com/seanpm2001/SeansLifeArchive (2)
-https://github.com/seanpm2001/SeansLifeArchive_Images (28)
-https://github.com/seanpm2001/WhyPadOS (69)
-https://github.com/seanpm2001/WacOS_12 (64)
-https://github.com/seanpm2001/Slaveworks (25)
-https://github.com/seanpm2001/The-Pirates-Copy (53)
-https://github.com/seanpm2001/MEDOS_SSD (73)
-https://github.com/seanpm2001/API-2001 (58)
-https://github.com/seanpm2001/SeansLifeArchive_Extras_KindleFire (71)
-https://github.com/seanpm2001/ShareBoxLIBrary (58)
-https://github.com/seanpm2001/Skeuwie (72)
-https://github.com/seanpm2001/BootDown (49)
-https://github.com/seanpm2001/qMeadows (39)
-https://github.com/seanpm2001/Halloween-Assistant (18)
-https://github.com/seanpm2001/DMail (1)
-https://github.com/seanpm2001/TouchPetsDogs2Rewritten (70)
-https://github.com/seanpm2001/SourceBase (70)
-https://github.com/seanpm2001/SNU_Extras (13)
-https://github.com/seanpm2001/BGemJam (48)
-https://github.com/seanpm2001/SNU_2D_Software_Center (15)
-https://github.com/seanpm2001/SNU_2D_TableTopGameHouse (32)
-https://github.com/seanpm2001/ScriptKidd_ToolKit (65)
-https://github.com/seanpm2001/SNU_StartAScript (16)
-https://github.com/seanpm2001/SeansLifeArchive_Gaming_Mari0Backups (50)
-https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backups (65)
-https://github.com/seanpm2001/SNU_2D (43)
-https://github.com/seanpm2001/SNU_1D (25)
-https://github.com/seanpm2001/SNU_0D (25)
-https://github.com/seanpm2001/SNU_3D (25)
-https://github.com/seanpm2001/SNU_4D (25)
-https://github.com/seanpm2001/SNU_Package_Manager (25)
-https://github.com/seanpm2001/Virtual-VHS (29)
-https://github.com/seanpm2001/Stop-using-Chromebooks (18)
-https://github.com/seanpm2001/Stop-reading-from-Google-Books (8)
-https://github.com/seanpm2001/Alternating-from-YouTube (22)
-https://github.com/seanpm2001/Why-you-should-stop-using-Android (8)
-https://github.com/seanpm2001/Candroid (21)
-https://github.com/seanpm2001/Seanpm2001-NimbleBit (25)
-https://github.com/seanpm2001/NimbleBook (35)
-https://github.com/seanpm2001/SNU_DocumentationCenter (16)
-https://github.com/seanpm2001/SNU_2D_TypographyDocs (15)
-https://github.com/seanpm2001/SeansLifeArchive_Images_Team-Fortress-2 (22)
-https://github.com/seanpm2001/Awesome-Ukrainian-Software (25)
-https://github.com/seanpm2001/KeyStroke (18)
-https://github.com/seanpm2001/SNU_2D_MartinLutherKingJRMemorial (53)
-https://github.com/seanpm2001/LinkLax (55)
-https://github.com/seanpm2001/YKDefender (23)
-https://github.com/seanpm2001/SeansLifeArchive_Extras_KindleFire (71)
-https://github.com/seanpm2001/ScreenTeX (38)
-https://github.com/seanpm2001/Boom-Bay (41)
-https://github.com/seanpm2001/AcroSlideXLIBrary (12)
-https://github.com/seanpm2001/VLCSV (54)
-https://github.com/seanpm2001/NUNIX (60)
-https://github.com/seanpm2001/HXTemplate (16)
-https://github.com/seanpm2001/IGNORE_File (13)
-https://github.com/seanpm2001/Gist_Seanpm2001-GitHubProfileNavigation (18)
-https://github.com/seanpm2001/Project-language-file (20)
-https://github.com/seanpm2001/SeansLifeArchive_Images_Topwar_BattleGame_Clickbait (10)
-https://github.com/seanpm2001/BathHouseOS (50)
-https://github.com/seanpm2001/BluPhoneOS (60)
-https://github.com/seanpm2001/IsraeLinux (49)
-https://github.com/seanpm2001/Vim-Autoscroller (39)
-https://github.com/seanpm2001/uOffice_LIBrary_DVCS (48)
-https://github.com/seanpm2001/README-Desktop-LIBrary (47)
-https://github.com/seanpm2001/MadLibby (18)
-https://github.com/seanpm2001/Metric-System (13)
-https://github.com/seanpm2001/ReasonableOverflow_LIBrary (14)
-https://github.com/seanpm2001/LargeNumber_ULIB (27)
-https://github.com/seanpm2001/CottonTree-LIBrary (15)
-https://github.com/seanpm2001/Numeric-Liberation-Front (23)
-https://github.com/seanpm2001/AudiBass_Manager (61)
-https://github.com/seanpm2001/CountMausoleum (71)
-https://github.com/seanpm2001/UnitedAutismRights_Org (41)
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Blockly (40)
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_V (44)
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mathematica (38)
-https://github.com/seanpm2001/Mammal_Town (47)
-https://github.com/seanpm2001/Pocket-village (11)
-https://github.com/seanpm2001/OpenTowers (16)
-https://github.com/seanpm2001/UltraSwitch (18)
-https://github.com/seanpm2001/Gaslight-Galactica (46)
-https://github.com/seanpm2001/UltraCompass (17) 
-https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_minacoaster-3000 (16)
-https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_minecraft_myphobias (15)
-https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Terracottacon (5)
-https://github.com/seanpm2001/SeansLifeArchive_Extras_MinecraftPE (4)
-https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_labmax (30)
-https://github.com/seanpm2001/RNAssistant (38)
-https://github.com/seanpm2001/Portal-Voice-Assistant (17)
-https://github.com/seanpm2001/Profa_Or_Antifa (27)
-https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter (49)
-https://github.com/seanpm2001/SNU_2D_SexEducation (31)
-https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_ResourcePacks (20)
-https://github.com/seanpm2001/SeansLifeArchive_Images_Minecraft (48)
-https://github.com/seanpm2001/SeansLifeArchive_Extras_Windows10StickyNotes (21)
-https://github.com/seanpm2001/SeansLifeArchive_Images_WindowsNT (52)
-https://github.com/seanpm2001/SeansLifeArchive_Images_OtherWindows (61)
-https://github.com/seanpm2001/SeansLifeArchive_Images_Old-Windows-XP-Laptop (20)
-https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Windows95MC (23)
-https://github.com/seanpm2001/The-Graeyt-Macro (24)
-https://github.com/seanpm2001/Self-replicating-machine-research (10)
-https://github.com/seanpm2001/MemeMachine-2019 (22)
-https://github.com/seanpm2001/Gist_Seanpm_OnGitHub (12)
-https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME (33)
-https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_Solitaire (23)
-https://github.com/seanpm2001/360Desktop (38)
-https://github.com/seanpm2001/Desktop (11)
-https://github.com/seanpm2001/SeansLifeArchive_daily-desktop-screenshots (38)
-https://github.com/seanpm2001/Year-of-the-Linux-desktop (36)
-https://github.com/seanpm2001/Linux.Desktop (9)
-https://github.com/seanpm2001/SeansLifeArchive_Images_desktop_destroyer (23)
-https://github.com/seanpm2001/r-seanpm2001 (35)
-https://github.com/seanpm2001/FBI_RoleplaySimulator (23)
-https://github.com/seanpm2001/SeansLifeArchive_Images_YandereSimulator (20)
-https://github.com/seanpm2001/Hyper-realistic-farm-simulator (10)
-https://github.com/seanpm2001/SimZonns (79)
-https://github.com/seanpm2001/the-walla-walla-anime (20)
-https://github.com/seanpm2001/Seanpm2001-Operating-Systems (41)
-https://github.com/seanpm2001/Seanwallawalla-operating-systems (24)
-https://github.com/seanpm2001/Linux.Templates (28)
-https://github.com/seanpm2001/Meadows_Emergency-Alert-System (14)
-https://github.com/seanpm2001/Snapshots-Version-Control-System (12)
-https://github.com/seanpm2001/SNU_System (15)
-https://github.com/seanpm2001/SankOS (29)
-https://github.com/seanpm2001/Hospital_Defender (45)
-https://github.com/seanpm2001/WhyPhoneOS (24)
-https://github.com/seanpm2001/UriOS (25)
-https://github.com/seanpm2001/MaprilOS (25)
-https://github.com/seanpm2001/ThroneOS (25)
-https://github.com/seanpm2001/BathHouseOS_Core_ControlPanel (25)
-https://github.com/seanpm2001/Bosky (25)
-https://github.com/seanpm2001/WhyWatchOS (10)
-https://github.com/seanpm2001/The-Microsoft-Pact (14)
-https://github.com/seanpm2001/NimbleBit-Glossary (13)
-https://github.com/seanpm2001/SNU_OSKillers (27)
-https://github.com/seanpm2001/SNU_VideoSettings (8)
-https://github.com/seanpm2001/PersonalKiosk (8)
-https://github.com/seanpm2001/DOS-Buddy (22)
-https://github.com/seanpm2001/CrossCompatXU (37)
-https://github.com/seanpm2001/Nost_Gia_OS (14)
-https://github.com/seanpm2001/OS_Census (14)
-https://github.com/seanpm2001/SDE_Gyroscope (11) 
-https://github.com/seanpm2001/GitHubby (66)
-https://github.com/seanpm2001/RubbleRobot (16)
-https://github.com/seanpm2001/CompuBunker (12)
-https://github.com/seanpm2001/Submissions (17)
-https://github.com/seanpm2001/Programmers-Day (21)
-!-->
+| [`SimZonns`](https://github.com/seanpm2001/SimZonns/) | **UNKNOWN DATE** |
+| [`PongMax`](https://github.com/seanpm2001/PongMax/) | 2022, August 20th |
 
 There are many not listed here, as not all may have been found yet.
 
@@ -310,9 +155,9 @@ There are many not listed here, as not all may have been found yet.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Thursday, August 18th at 4:34 pm PST)`
+**File version:** `2 (2022, Saturday, August 20th at 8:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `353`
+**Line count (including blank lines and compiler line):** `213`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -344,6 +189,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Saturday, August 20th at 8:49 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table, with 2 new entries, 135 total.
+- [x] Removed all unrelated comments
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
