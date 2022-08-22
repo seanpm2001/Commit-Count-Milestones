@@ -7,7 +7,7 @@
 
 **THIS LIST IS EXTREMELY INCOMPLETE!**
 
-As of 2022, Friday, August 19th, an uncounted number (at least 285) of my repositories have reached and/or surpassed 10 commits. They include:
+As of 2022, Sunday, August 21st, an uncounted number (at least 292) of my repositories have reached and/or surpassed 10 commits. They include:
 
 | Repository | Reached 10 commits on this date |
 |---|---|
@@ -296,6 +296,13 @@ As of 2022, Friday, August 19th, an uncounted number (at least 285) of my reposi
 | [`BWS_IceBlocks`](https://github.com/seanpm2001/BWS_IceBlocks/) | 2022, August 19th |
 | [`BWS_IceBerg`](https://github.com/seanpm2001/BWS_IceBerg/) | 2022, August 19th |
 | [`BWS_Zamboni`](https://github.com/seanpm2001/BWS_Zamboni/) | 2022, August 19th |
+| [`BWS`](https://github.com/seanpm2001/BWS/) | 2022, January 10th |
+| [`Silkworm_web_browser`](https://github.com/seanpm2001/Silkworm_web_browser/) | 2022, January 9th |
+| [`BlazeOS_bpage`](https://github.com/seanpm2001/BlazeOS_bpage/) | 2022, January 10th |
+| [`Blazed_Cafe`](https://github.com/seanpm2001/Blazed_Cafe/) | 2022, January 9th |
+| [`MOBI_Dick`](https://github.com/seanpm2001/Mobi_Dick/) | 2022, January 9th |
+| [`BlazeOS_ePubStation`](https://github.com/seanpm2001/BlazeOS_ePubStation/) | 2022, January 10th |
+| [`IgniteBook`](https://github.com/seanpm2001/IgniteBook/) | 2022, January 10th |
 
 <!-- Too small to list
 https://github.com/seanpm2001/Meadows (4)
@@ -320,9 +327,9 @@ There are several hundred entries not listed here, as not all may have been foun
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022, Friday, August 19th at 7:36 pm PST)`
+**File version:** `3 (2022, Sunday, August 21st at 10:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `376`
+**Line count (including blank lines and compiler line):** `396`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -367,6 +374,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Sunday, August 21st at 10:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 7 entries, now totaling 292.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 3
 
 </details>
 
