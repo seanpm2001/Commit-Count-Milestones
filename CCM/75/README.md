@@ -5,7 +5,7 @@
 
 ## Projects that have reached 75 commits
 
-As of 2022, Sunday, August 21st, an uncounted number (at least 136) of my repositories have reached and/or surpassed 75 commits. They include:
+As of 2022, Monday, August 22nd, an uncounted number (at least 143) of my repositories have reached and/or surpassed 75 commits. They include:
 
 | Repository | Reached 75 commits on this date |
 |---|---|
@@ -123,6 +123,13 @@ As of 2022, Sunday, August 21st, an uncounted number (at least 136) of my reposi
 | [`SeansLifeArchive_Images_TinyTowerVegas`](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_ThePlayForge_Tree-World`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V1`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V1/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V2`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V2/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V4`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V4/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V5`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V5/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V6`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V6/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V7`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V7/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V8`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V8/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_City-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_City-Story/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_Farm-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_Farm-Story/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_Restaurant-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_Restaurant-Story/) | **UNKNOWN DATE** |
@@ -156,9 +163,9 @@ There are many not listed here, as not all may have been found yet.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Sunday, August 21st at 11:04 pm PST)`
+**File version:** `4 (2022, Monday, August 22nd at 10:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `227`
+**Line count (including blank lines and compiler line):** `249`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -221,6 +228,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] No other changes in version 3
 
 </details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Monday, August 22nd at 10:24 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table, with 7 new entries, 143 total.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 4
+
+</details>
+
 </details>
 
 ***
