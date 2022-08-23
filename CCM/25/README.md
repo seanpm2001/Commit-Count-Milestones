@@ -9,7 +9,7 @@
 
 **THIS LIST IS HIGHLY INCOMPLETE!**
 
-As of 2022, Sunday, August 21st, an uncounted number (at least 226) of my repositories have reached and/or surpassed 25 commits. They include:
+As of 2022, Monday, August 22nd, an uncounted number (at least 230) of my repositories have reached and/or surpassed 25 commits. They include:
 
 | Repository | Reached 25 commits on this date |
 |---|---|
@@ -239,6 +239,10 @@ As of 2022, Sunday, August 21st, an uncounted number (at least 226) of my reposi
 | [`MOBI_Dick`](https://github.com/seanpm2001/Mobi_Dick/) | 2022, August 21st |
 | [`BlazeOS_ePubStation`](https://github.com/seanpm2001/BlazeOS_ePubStation/) | 2022, August 21st |
 | [`IgniteBook`](https://github.com/seanpm2001/IgniteBook/) | 2022, January 10th |
+| [`QMEFS`](https://github.com/seanpm2001/QMEFS/) | 2022, Monday, August 22nd |
+| [`Ransomware-Info`](https://github.com/seanpm2001/Ransomware-Info/) | 2022, Monday, August 22nd |
+| [`BlazeOS_Userland`](https://github.com/seanpm2001/BlazeOS_Userland) | 2022, Monday, August 22nd |
+| [`Google-Security-issues`](https://github.com/seanpm2001/Google-security-issues/) | 2022, Monday, August 22nd |
 
 There are many not listed here, as not all may have been found yet. This list is highly incomplete.
 
@@ -250,9 +254,9 @@ There are many not listed here, as not all may have been found yet. This list is
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Sunday, August 21st at 10:53 pm PST)`
+**File version:** `5 (2022, Monday, August 22nd at 10:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `333`
+**Line count (including blank lines and compiler line):** `350`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -324,6 +328,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2022, Monday, August 22nd at 10:06 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 4 new entries, now totaling 230.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 5
 
 </details>
 
