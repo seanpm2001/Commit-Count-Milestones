@@ -7,7 +7,7 @@
 
 **THIS LIST IS HIGHLY INCOMPLETE!**
 
-As of 2022, Monday, August 22nd, an uncounted number (at least 204) of my repositories have reached and/or surpassed 32 commits. They include:
+As of 2022, Wednesday, August 24th, an uncounted number (at least 215) of my repositories have reached and/or surpassed 32 commits. They include:
 
 | Repository | Reached 32 commits on this date |
 |---|---|
@@ -159,6 +159,13 @@ As of 2022, Monday, August 22nd, an uncounted number (at least 204) of my reposi
 | [`SeansLifeArchive_Images_TinyTowerVegas`](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_ThePlayForge_Tree-World`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V1`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V1/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V2`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V2/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V4`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V4/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V5`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V5/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V6`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V6/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V7`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V7/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V8`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V8/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_City-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_City-Story/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_Farm-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_Farm-Story/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_Restaurant-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_Restaurant-Story/) | **UNKNOWN DATE** |
@@ -202,6 +209,7 @@ As of 2022, Monday, August 22nd, an uncounted number (at least 204) of my reposi
 | [`Hospital-Defender`](https://github.com/seanpm2001/Hospital_Defender/) | **UNKNOWN DATE** |
 | [`CrossCompatXU`](https://github.com/seanpm2001/CrossCompatXU/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_GNOME`](https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME/) | **UNKNOWN DATE** |
+| [`Firefox-version-number-fix`](https://github.com/seanpm2001/Firefox-version-number-fix/) | 2022, July 30th |
 | [`BlAPK`](https://github.com/seanpm2001/BlAPK/) | 2022, August 20th |
 | [`BlazeOS_App_Store`](https://github.com/seanpm2001/BlazeOS_App_Store/) | 2022, August 20th |
 | [`BWS`](https://github.com/seanpm2001/BWS/) | 2022, August 21st |
@@ -215,6 +223,9 @@ As of 2022, Monday, August 22nd, an uncounted number (at least 204) of my reposi
 | [`Ransomware-Info`](https://github.com/seanpm2001/Ransomware-Info/) | 2022, Monday, August 22nd |
 | [`BlazeOS_Userland`](https://github.com/seanpm2001/BlazeOS_Userland) | 2022, Monday, August 22nd |
 | [`Google-Security-issues`](https://github.com/seanpm2001/Google-security-issues/) | 2022, Monday, August 22nd |
+| [`SNU_2D_ProgrammingTools_IDE_kvlang`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_kvlang/) | 2022, August 24th |
+| [`Learn-GSC`](https://github.com/seanpm2001/Learn-GSC/) | 2022, August 24th |
+| [`SNU_2D_ProgrammingTools_IDE_GSC`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GSC/) | 2022, August 24th |
 
 There are many not listed here, as not all may have been found yet. This list is highly incomplete.
 
@@ -226,9 +237,9 @@ There are many not listed here, as not all may have been found yet. This list is
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Monday, August 22nd at 10:10 pm PST)`
+**File version:** `5 (2022, Wednesday, August 24th at 8:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `309`
+**Line count (including blank lines and compiler line):** `333`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -300,6 +311,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2022, Wednesday, August 24th at 8:32 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 11 entries, now totaling 215.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 5
 
 </details>
 
