@@ -7,7 +7,7 @@
 
 **THIS LIST IS EXTREMELY INCOMPLETE!**
 
-As of 2022, Wednesday, August 24th, an uncounted number (at least 304) of my repositories have reached and/or surpassed 10 commits. They include:
+As of 2022, Wednesday, August 24th, an uncounted number (at least 315) of my repositories have reached and/or surpassed 10 commits. They include:
 
 | Repository | Reached 10 commits on this date |
 |---|---|
@@ -172,6 +172,13 @@ As of 2022, Wednesday, August 24th, an uncounted number (at least 304) of my rep
 | [`SeansLifeArchive_Images_TinyTowerVegas`](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_ThePlayForge_Tree-World`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V1`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V1/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V2`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V2/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V4`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V4/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V5`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V5/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V6`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V6/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V7`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V7/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V8`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V8/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_City-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_City-Story/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_Farm-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_Farm-Story/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_Restaurant-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_Restaurant-Story/) | **UNKNOWN DATE** |
@@ -315,6 +322,10 @@ As of 2022, Wednesday, August 24th, an uncounted number (at least 304) of my rep
 | [`BlazeOS_Peak`](https://github.com/seanpm2001/BlazeOS_Peak/) | 2022, August 23rd |
 | [`BlazeOS_Peak_Video`](https://github.com/seanpm2001/BlazeOS_Peak_Video/) | 2022, August 23rd |
 | [`WYII-TrendTool`](https://github.com/seanpm2001/WYII-TrendTool/) | 2022, August 23rd |
+| [`Learn-kvlang`](https://github.com/seanpm2001/Learn-kvlang/) | 2022, August 24th |
+| [`SNU_2D_ProgrammingTools_IDE_kvlang`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_kvlang/) | 2022, August 24th |
+| [`Learn-GSC`](https://github.com/seanpm2001/Learn-GSC/) | 2022, August 24th |
+| [`SNU_2D_ProgrammingTools_IDE_GSC`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GSC/) | 2022, August 24th |
 
 <!-- Too small to list
 https://github.com/seanpm2001/Meadows (4)
@@ -339,9 +350,9 @@ There are several hundred entries not listed here, as not all may have been foun
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Wednesday, August 24th at 8:07 pm PST)`
+**File version:** `6 (2022, Wednesday, August 24th at 8:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `434`
+**Line count (including blank lines and compiler line):** `458`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -425,6 +436,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p lang="en"><b>Version 6 (2022, Wednesday, August 24th at 8:17 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 11 entries, now totaling 315.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 6
 
 </details>
 
