@@ -7,7 +7,7 @@
 
 **THIS LIST IS EXTREMELY INCOMPLETE!**
 
-As of 2022, Wednesday, August 24th, an uncounted number (at least 290) of my repositories have reached and/or surpassed 16 commits. They include:
+As of 2022, Thursday, August 25th, an uncounted number (at least 294) of my repositories have reached and/or surpassed 16 commits. They include:
 
 | Repository | Reached 16 commits on this date |
 |---|---|
@@ -301,6 +301,10 @@ As of 2022, Wednesday, August 24th, an uncounted number (at least 290) of my rep
 | [`SNU_2D_ProgrammingTools_IDE_kvlang`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_kvlang/) | 2022, August 24th |
 | [`Learn-GSC`](https://github.com/seanpm2001/Learn-GSC/) | 2022, August 24th |
 | [`SNU_2D_ProgrammingTools_IDE_GSC`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GSC/) | 2022, August 24th |
+| [`Learn-Alloy`](https://github.com/seanpm2001/Learn-Alloy/) | 2022 August 25th |
+| [`SNU_2D_ProgrammingTools_IDE_Alloy`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Alloy/) | 2022 August 25th |
+| [`Learn-QT-Script`](https://github.com/seanpm2001/Learn-QT-Script/) | 2022 August 25th |
+| [`SNU_2D_ProgrammingTools_IDE_QT-Script`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QT-Script/) | 2022 August 25th |
 
 There are several hundred entries not listed here, as not all may have been found yet. This list is highly/extremely incomplete.
 
@@ -312,9 +316,9 @@ There are several hundred entries not listed here, as not all may have been foun
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Wednesday, August 24th at 8:20 pm PST)`
+**File version:** `8 (2022, Thursday, August 25th at 7:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `432`
+**Line count (including blank lines and compiler line):** `449`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -423,6 +427,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p lang="en"><b>Version 8 (2022, Thursday, August 25th at 7:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 4 entries, now totaling 294.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 8
 
 </details>
 
