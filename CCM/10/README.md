@@ -7,7 +7,7 @@
 
 **THIS LIST IS EXTREMELY INCOMPLETE!**
 
-As of 2022, Wednesday, August 24th, an uncounted number (at least 315) of my repositories have reached and/or surpassed 10 commits. They include:
+As of 2022, Thursday, August 25th, an uncounted number (at least 320) of my repositories have reached and/or surpassed 10 commits. They include:
 
 | Repository | Reached 10 commits on this date |
 |---|---|
@@ -179,6 +179,7 @@ As of 2022, Wednesday, August 24th, an uncounted number (at least 315) of my rep
 | [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V6`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V6/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V7`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V7/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V8`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V8/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V9`](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V9/) | 2022, August 9th |
 | [`SeansLifeArchive_Images_City-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_City-Story/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_Farm-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_Farm-Story/) | **UNKNOWN DATE** |
 | [`SeansLifeArchive_Images_Restaurant-Story`](https://github.com/seanpm2001/SeansLifeArchive_Images_Restaurant-Story/) | **UNKNOWN DATE** |
@@ -326,6 +327,10 @@ As of 2022, Wednesday, August 24th, an uncounted number (at least 315) of my rep
 | [`SNU_2D_ProgrammingTools_IDE_kvlang`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_kvlang/) | 2022, August 24th |
 | [`Learn-GSC`](https://github.com/seanpm2001/Learn-GSC/) | 2022, August 24th |
 | [`SNU_2D_ProgrammingTools_IDE_GSC`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GSC/) | 2022, August 24th |
+| [`Learn-Alloy`](https://github.com/seanpm2001/Learn-Alloy/) | 2022 August 25th |
+| [`SNU_2D_ProgrammingTools_IDE_Alloy`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Alloy/) | 2022 August 25th |
+| [`Learn-QT-Script`](https://github.com/seanpm2001/Learn-QT-Script/) | 2022 August 25th |
+| [`SNU_2D_ProgrammingTools_IDE_QT-Script`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QT-Script/) | 2022 August 25th |
 
 <!-- Too small to list
 https://github.com/seanpm2001/Meadows (4)
@@ -350,9 +355,9 @@ There are several hundred entries not listed here, as not all may have been foun
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Wednesday, August 24th at 8:17 pm PST)`
+**File version:** `7 (2022, Thursday, August 25th at 7:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `458`
+**Line count (including blank lines and compiler line):** `476`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -449,6 +454,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2022, Thursday, August 25th at 7:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 5 entries, now totaling 320.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 7
 
 </details>
 
