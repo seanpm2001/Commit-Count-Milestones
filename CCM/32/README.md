@@ -7,7 +7,7 @@
 
 **THIS LIST IS HIGHLY INCOMPLETE!**
 
-As of 2022, Thursday, August 25th, an uncounted number (at least 218) of my repositories have reached and/or surpassed 32 commits. They include:
+As of 2022, Monday, August 29th, an uncounted number (at least 232) of my repositories have reached and/or surpassed 32 commits. They include:
 
 | Repository | Reached 32 commits on this date |
 |---|---|
@@ -229,6 +229,20 @@ As of 2022, Thursday, August 25th, an uncounted number (at least 218) of my repo
 | [`SNU_2D_ProgrammingTools_IDE_Alloy`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Alloy/) | 2022 August 25th |
 | [`Learn-QT-Script`](https://github.com/seanpm2001/Learn-QT-Script/) | 2022 August 25th |
 | [`SNU_2D_ProgrammingTools_IDE_QT-Script`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QT-Script/) | 2022 August 25th |
+| [`SNU_2D_ProgrammingTools_IDE_GDB`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GDB/) | 2022, August 26th |
+| [`SeansLifeArchive_Images_KDE_Kapman`](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_Kapman/) | 2022, August 27th |
+| [`SeansLifeArchive_Images_KDE_Granatier`](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_Granatier/) | 2022, August 27th |
+| [`SeansLifeArchive_Images_KDE_KBreakout`](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_KBreakout/) | 2022, August 27th |
+| [`SeansLifeArchive_Images_KDE_KFourInLine`](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_KFourInLine/) | 2022, August 27th |
+| [`VirtualBox_PlusPlus`](https://github.com/seanpm2001/VirtualBox_PlusPlus/) | 2022, August 28th |
+| [`SeansLifeArchive_Images_System76`](https://github.com/seanpm2001/SeansLifeArchive_Images_System76/) | 2022, August 28th |
+| [`SeansLifeArchive_Images_KDE`](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE/) | 2022, August 28th |
+| [`SeansLifeArchive_Images_GNOME_Quadrapassel`](https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_Quadrapassel/) | 2022, August 28th |
+| [`SeansLifeArchive_Images_GNOME_Chess`](https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_Chess/) | 2022, August 28th |
+| [`SeansLifeArchive_Images_GNOME_Minesweeper`](https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_Minesweeper/) | 2022, August 28th |
+| [`SeansLifeArchive_Images_GNOME_GIMP`](https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_GIMP/) | 2022, August 28th |
+| [`SNU_2D_ProgrammingTools_IDE_Earthly`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Earthly/) | 2022, August 29th |
+| [`SNU_2D_ProgrammingTools_IDE_Singularity`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Singularity/) | 2022, August 29th |
 
 There are many not listed here, as not all may have been found yet. This list is highly incomplete.
 
@@ -240,9 +254,9 @@ There are many not listed here, as not all may have been found yet. This list is
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Thursday, August 25th at 8:03 pm PST)`
+**File version:** `7 (2022, Monday, August 29th at 9:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `349`
+**Line count (including blank lines and compiler line):** `376`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -340,6 +354,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2022, Monday, August 29th at 9:38 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 14 entries, now totaling 232.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 7
 
 </details>
 
