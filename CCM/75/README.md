@@ -5,7 +5,7 @@
 
 ## Projects that have reached 75 commits
 
-As of 2022, Monday, August 22nd, an uncounted number (at least 143) of my repositories have reached and/or surpassed 75 commits. They include:
+As of 2022, Monday, August 29th, an uncounted number (at least 144) of my repositories have reached and/or surpassed 75 commits. They include:
 
 | Repository | Reached 75 commits on this date |
 |---|---|
@@ -152,6 +152,7 @@ As of 2022, Monday, August 22nd, an uncounted number (at least 143) of my reposi
 | [`SimZonns`](https://github.com/seanpm2001/SimZonns/) | **UNKNOWN DATE** |
 | [`PongMax`](https://github.com/seanpm2001/PongMax/) | 2022, August 20th |
 | [`IgniteBook`](https://github.com/seanpm2001/IgniteBook/) | 2022, August 21st |
+| [`SeansLifeArchive_Images_KDE`](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE/) | 2022, August 28th |
 
 There are many not listed here, as not all may have been found yet.
 
@@ -163,9 +164,9 @@ There are many not listed here, as not all may have been found yet.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Monday, August 22nd at 10:24 pm PST)`
+**File version:** `5 (2022, Monday, August 29th at 9:51 pm PST)`
 
-**Line count (including blank lines and compiler line):** `249`
+**Line count (including blank lines and compiler line):** `264`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -240,6 +241,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2022, Monday, August 29th at 9:51 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the main table, with 1 new entry, 144 total.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 5
 
 </details>
 
