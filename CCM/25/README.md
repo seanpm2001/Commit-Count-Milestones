@@ -7,7 +7,7 @@
 
 **THIS LIST IS HIGHLY INCOMPLETE!**
 
-As of 2022, Monday, August 29th, an uncounted number (at least 264) of my repositories have reached and/or surpassed 25 commits. They include:
+As of 2022, Wednesday, August 31st, an uncounted number (at least 272) of my repositories have reached and/or surpassed 25 commits. They include:
 
 | Repository | Reached 25 commits on this date |
 |---|---|
@@ -275,6 +275,14 @@ As of 2022, Monday, August 29th, an uncounted number (at least 264) of my reposi
 | [`Learn-Singularity`](https://github.com/seanpm2001/Learn-Singularity/) | 2022, August 29th |
 | [`SNU_2D_ProgrammingTools_IDE_Singularity`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Singularity/) | 2022, August 29th |
 | [`-ibibyte_Mathematical_Reference`](https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/) | 2022, August 29th |
+| [`SeansAudioDB_Wiki_2021`](https://github.com/seanpm2001/SeansAudioDB_Wiki_2021/) | **UNKNOWN DATE** |
+| [`Learn-BitBake`](https://github.com/seanpm2001/Learn-BitBake/) | 2022, August 30th |
+| [`SNU_2D_ProgrammingTools_IDE_BitBake`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BitBake/) | 2022, August 30th |
+| [`SNU_2D_ProgrammingTools_IDE_Jinja`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jinja/) | 2022, August 30th |
+| [`SeansLifeArchive_Images_Inkscape`](https://github.com/seanpm2001/SeansLifeArchive_Images_Inkscape/) | 2022, August 30th |
+| [`SeansLifeArchive_Images_UltiMaker_Cura`](https://github.com/seanpm2001/SeansLifeArchive_Images_UltiMaker_Cura/) | 2022, August 30th |
+| [`SeansLifeArchive_Images_Audacity`](https://github.com/seanpm2001/SeansLifeArchive_Images_Audacity/) | 2022, August 30th |
+| [`Learn-Racket`](https://github.com/seanpm2001/Learn-Racket/) | 2022, August 31st |
 
 There are many not listed here, as not all may have been found yet. This list is highly incomplete.
 
@@ -286,9 +294,9 @@ There are many not listed here, as not all may have been found yet. This list is
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Monday, August 29th at 9:30 pm PST)`
+**File version:** `9 (2022, Wednesday, August 31st at 10:08 pm PST)`
 
-**Line count (including blank lines and compiler line):** `421`
+**Line count (including blank lines and compiler line):** `442`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -412,6 +420,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 8
+
+</details>
+
+<details><summary><p lang="en"><b>Version 9 (2022, Wednesday, August 31st at 10:08 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 8 new entries, now totaling 272.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 9
 
 </details>
 
