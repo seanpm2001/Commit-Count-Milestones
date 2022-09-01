@@ -7,7 +7,7 @@
 
 **THIS LIST IS HIGHLY INCOMPLETE!**
 
-As of 2022, Monday, August 29th, an uncounted number (at least 183) of my repositories have reached and/or surpassed 50 commits. They include:
+As of 2022, Wednesday, August 31st, an uncounted number (at least 186) of my repositories have reached and/or surpassed 50 commits. They include:
 
 | Repository | Reached 50 commits on this date |
 |---|---|
@@ -65,7 +65,7 @@ As of 2022, Monday, August 29th, an uncounted number (at least 183) of my reposi
 | [`FINF-DB`](https://github.com/seanpm2001/FINF-DB/) | **UNKNOWN DATE** |
 | [`UCALC`](https://github.com/seanpm2001/UCALC/) | **UNKNOWN DATE** |
 | [`VLCSV`](https://github.com/seanpm2001/VLCSV/) | **UNKNOWN DATE** |
-| [`NUNIX`](https://github.com/seanpm2001/NUNIX/) \ **UNKNOWN DATE** |
+| [`NUNIX`](https://github.com/seanpm2001/NUNIX/) | **UNKNOWN DATE** |
 | [`SNU_2D_DennisRitchieMemorial`](https://github.com/seanpm2001/SNU_2D_DennisRitchieMemorial/) | **UNKNOWN DATE** |
 | [`Meadows_Begin`](https://github.com/seanpm2001/Meadows_Begin/) | **UNKNOWN DATE** |
 | [`Meadows-Network-Troubleshooter`](https://github.com/seanpm2001/Meadows-Network-Troubleshooter/) | **UNKNOWN DATE** |
@@ -194,6 +194,9 @@ As of 2022, Monday, August 29th, an uncounted number (at least 183) of my reposi
 | [`SeansLifeArchive_Images_KDE_KBreakout`](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_KBreakout/) | 2022, August 27th |
 | [`SeansLifeArchive_Images_KDE_KFourInLine`](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_KFourInLine/) | 2022, August 27th |
 | [`SeansLifeArchive_Images_KDE`](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE/) | 2022, August 28th |
+| [`SeansAudioDB_Wiki_2021`](https://github.com/seanpm2001/SeansAudioDB_Wiki_2021/) | **UNKNOWN DATE** |
+| [`SeansLifeArchive_Images_Inkscape`](https://github.com/seanpm2001/SeansLifeArchive_Images_Inkscape/) | 2022, August 30th |
+| [`Learn-Racket`](https://github.com/seanpm2001/Learn-Racket/) | 2022, August 31st |
 
 There are many not listed here, as not all may have been found yet. This list is highly incomplete.
 
@@ -205,9 +208,9 @@ There are many not listed here, as not all may have been found yet. This list is
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Monday, August 29th at 9:45 pm PST)`
+**File version:** `7 (2022, Wednesday, August 31st at 10:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `314`
+**Line count (including blank lines and compiler line):** `330`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -305,6 +308,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2022, Wednesday, August 31st at 10:16 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 3 entries, now totaling 186.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 7
 
 </details>
 
