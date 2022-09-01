@@ -7,7 +7,7 @@
 
 **THIS LIST IS EXTREMELY INCOMPLETE!**
 
-As of 2022, Monday, August 29th, an uncounted number (at least 314) of my repositories have reached and/or surpassed 16 commits. They include:
+As of 2022, Wednesday, August 31st, an uncounted number (at least 328) of my repositories have reached and/or surpassed 16 commits. They include:
 
 | Repository | Reached 16 commits on this date |
 |---|---|
@@ -325,6 +325,20 @@ As of 2022, Monday, August 29th, an uncounted number (at least 314) of my reposi
 | [`Learn-Singularity`](https://github.com/seanpm2001/Learn-Singularity/) | 2022, August 29th |
 | [`SNU_2D_ProgrammingTools_IDE_Singularity`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Singularity/) | 2022, August 29th |
 | [`-ibibyte_Mathematical_Reference`](https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/) | 2022, August 29th |
+| [`DeGoogle-your-Life_Wiki_2021`](https://github.com/seanpm2001/DeGoogle-your-Life_Wiki_2021/) | **UNKNOWN DATE** |
+| [`SeansAudioDB_Wiki_2021`](https://github.com/seanpm2001/SeansAudioDB_Wiki_2021/) | **UNKNOWN DATE** |
+| [`MCPYE_Wiki_2021`](https://github.com/seanpm2001/MCPYE_Wiki_2021/) | 2021 May 27th | <!-- 10CCM was supposed to be 2021 May 26th !-->
+| [`Learn-BitBake`](https://github.com/seanpm2001/Learn-BitBake/) | 2022, August 30th |
+| [`SNU_2D_ProgrammingTools_IDE_BitBake`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BitBake/) | 2022, August 30th |
+| [`Learn-Jinja`](https://github.com/seanpm2001/Learn-Jinja/) | 2022, August 30th |
+| [`SNU_2D_ProgrammingTools_IDE_Jinja`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jinja/) | 2022, August 30th |
+| [`SeansLifeArchive_Images_Inkscape`](https://github.com/seanpm2001/SeansLifeArchive_Images_Inkscape/) | 2022, August 30th |
+| [`SeansLifeArchive_Images_UltiMaker_Cura`](https://github.com/seanpm2001/SeansLifeArchive_Images_UltiMaker_Cura/) | 2022, August 30th |
+| [`SeansLifeArchive_Images_Audacity`](https://github.com/seanpm2001/SeansLifeArchive_Images_Audacity/) | 2022, August 30th |
+| [`Learn-OpenQASM`](https://github.com/seanpm2001/Learn-OpenQASM) | 2022, August 31st |
+| [`Learn-Racket`](https://github.com/seanpm2001/Learn-Racket/) | 2022, August 31st |
+| [`Learn-Ceylon`](https://github.com/seanpm2001/Learn-Ceylon/) | 2022, August 31st |
+| [`Learn-LogTalk`](https://github.com/seanpm2001/Learn-LogTalk/) | 2022, August 31st |
 
 There are several hundred entries not listed here, as not all may have been found yet. This list is highly/extremely incomplete.
 
@@ -336,9 +350,9 @@ There are several hundred entries not listed here, as not all may have been foun
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2022, Monday, August 29th at 9:23 pm PST)`
+**File version:** `10 (2022, Wednesday, August 31st at 10:04 pm PST)`
 
-**Line count (including blank lines and compiler line):** `482`
+**Line count (including blank lines and compiler line):** `511`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -437,6 +451,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - [ ] No other changes in version 6
 
+</details>
+
 <details><summary><p lang="en"><b>Version 7 (2022, Wednesday, August 24th at 8:20 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -473,6 +489,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 9
+
+</details>
+
+<details><summary><p lang="en"><b>Version 10 (2022, Wednesday, August 31st at 10:04 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the main table, adding 14 entries, now totaling 328.
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 10
 
 </details>
 
