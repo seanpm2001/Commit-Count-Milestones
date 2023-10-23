@@ -1,7 +1,13 @@
 
 ***
 
-# [Commit Count Milestones](#Commit-Count-Milestones)
+<div align="center">
+    <h6 id="Top"><a href="#Top">Top</a></h6>
+    <img src="/Graphics/Logo/1024px/PNG/HighCompression/CCM_Logo_1024px_V1_HighCompression.png" alt="CCM (Commit Count Milestones) logo" title="CCM (Commit Count Milestones) logo" width="256" height="256" class="center"/>
+    <h1 id="Title"><a href="Title">Commit Count Milestones</a></h1>
+</div>
+
+***
 
 <details open><summary><p><b>Click/tap here to expand/collapse this entire article</b></p></summary>
 
@@ -11,7 +17,8 @@ This is a list of lists of commit count milestones for the GitHub repositories o
 
 ## [Milestone list of lists](#Milestone-list-of-lists)
 
-**Bolded** entries are confirmed to contain data
+- **Bolded** entries are confirmed to contain data
+- As of 2023, Monday, October 23rd, no repository of mine has reached the 20000 commit milestone, with the highest milestone reached being 16384
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
@@ -30,18 +37,20 @@ This is a list of lists of commit count milestones for the GitHub repositories o
 | 256 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/256/)** |
 | 500 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/500/)** |
 | 512 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/512/)** |
+| 750 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/750/)** |
 | 1000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/1000/)** |
 | 1024 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/1024/)** |
 | 2000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/2000/)** |
 | 2048 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/2048/)** |
 | 2500 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/2500/)** |
+| 4000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/4000/)** |
 | 4096 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/4096/)** |
 | 5000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/5000/)** |
 | 8192 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/8192/)** |
 | 10000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/10000/)** |
 | 15000 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/15000/)** | <!-- First achieved: 2023, Monday, June 26th: https://github.com/seanpm2001/GitHub_Organization_Info/ !-->
-| **No repository of mine has gone past this point yet.** | **No repository of mine has gone past this point yet.** |
-| 16348 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/15000/) |
+| 16384 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/16384/)** | <!-- First achieved: 2023, Monday, October 23rd: https://github.com/seanpm2001/GitHub_Organization_Info/ !-->
+| **No repository of mine has gone past this point yet (as of 2023.10.23)** | **No repository of mine has gone past this point yet (as of 2023.10.23)** |
 | 20000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/20000/) |
 | 25000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/25000/) |
 | 30000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/30000/) |
@@ -92,6 +101,9 @@ This is a list of lists of commit count milestones for the GitHub repositories o
 | 1000000 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/1000000/) |
 | 1048576 commits | [Click/tap here to see all repositories that have reached this milestone](/CCM/1048576/) |
 
+<!-- ERROR
+| 16348 commits | **[Click/tap here to see all repositories that have reached this milestone](/CCM/16348/)** | !-->
+
 </details>
 
 ***
@@ -108,7 +120,75 @@ Since no-one has asked anything yet, I will answer the first common question I c
 
 These numbers aren't random. I included every power of 2 from 2^4 (16) to 2^20 (1048576) 2^16 = 65536, 2^20 = 1048576 and so on. Some other not so common numbers (such as 270,000) were included, as they are unique numbers to me. 
 
+#### Powers of 2 Reference
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section (Powers of 2 reference table)</u></b></p></summary>
+
+| Powers of 2 |
+|---|
+
+| ✖️ Power | 🟰 Result |
+|---|---|
+| **2^1** | `2` |
+| **2^2** | `4` |
+| **2^3** | `8` |
+| **2^4** | `16` |
+| **2^5** | `32` |
+| **2^6** | `64` |
+| **2^7** | `128` |
+| **2^8** | `256` |
+| **2^9** | `512` |
+| **2^10** | `1024` |
+| **2^11** | `2048` |
+| **2^12** | `4096` |
+| **2^13** | `8192` |
+| **2^14** | `16384` |
+| **2^15** | `32768` |
+| **2^16** | `65536` |
+| **2^17** | `131072` |
+| **2^18** | `262144` |
+| **2^19** | `524288` |
+| **2^20** | `1048576` |
+
+</details> <!-- End of powers of 2 reference table !-->
+
 </details> <!-- End of FAQ question 1 !-->
+
+---
+
+### [What is with redacted entries](#What-is-with-redacted-entries)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section (FAQ question #2)</u></b></p></summary>
+
+Some entries are currently redacted, as they are part of private repositories. They will eventually be filled in with the proper name data in the future when they are deemed ready to be made public.
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section (Redacted entries table reference)</u></b></p></summary>
+
+
+| Redaction code | Reference |
+|----------------|-----------|
+| `REDACTED[1]` | `TBD` [[Ref2]](#Ref2) |
+| `REDACTED[2]` | `TBD` [[Ref2]](#Ref2) |
+| `REDACTED[3]` | `TBD` [[Ref3]](#Ref3) |
+| `REDACTED[4]` | `TBD` [[Ref3]](#Ref3) |
+| `REDACTED[5]` | `TBD` [[Ref4]](#Ref4) |
+| `REDACTED[6]` | `TBD` [[Ref4]](#Ref4) |
+| `REDACTED[7]` | `EMAIL 2.0` [[#Ref1]](#Ref1) |
+| `REDACTED[8]` | `EMAIL_2.0_Docs` [[#Ref1]](#Ref1) |
+| `REDACTED[9]` | `EMAIL_-3.0` [[#Ref1]](#Ref1) |
+| `REDACTED[10]` | `EMAIL_-3.0_Docs` [[#Ref1]](#Ref1) |
+| `REDACTED[11]` | `EMAIL_2.0_Stamps` [[#Ref1]](#Ref1) |
+| `REDACTED[12]` | `EMAIL_2.0_Stamps_Docs` [[#Ref1]](#Ref1) |
+| `REDACTED[13]` | `EMAIL_2.0_EmailFX` [[#Ref1]](#Ref1) |
+| `REDACTED[14]` | `EMAIL_2.0_EmailFX_Docs` [[#Ref1]](#Ref1) |
+| `REDACTED[15]` | `EMAIL_2.0_FancyInbox` [[#Ref1]](#Ref1) |
+| `REDACTED[16]` | `TBD` [[Ref2]](#Ref2) |
+
+</details> <!-- End of Redacted entries table reference !-->
+
+</details> <!-- End of FAQ question 2 !-->
+
+---
 
 </details> <!-- End of FAQ section !-->
 
@@ -122,7 +202,43 @@ I am developing software tools to ease and aid the development of lists, and als
 
 </details> <!-- End of software tools !-->
 
-</details> <!-- End of article !-->
+***
+
+## References
+
+> **Note** _DO NOT COLLAPSE THIS SECTION_
+
+### Ref1
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section (reference note 1)</u></b></p></summary>
+
+- Unredacted upon the early release of EMAIL 2 and EMAIL -3 on 2023, Saturday September 16th
+
+</details> <!-- Reference note 1 !-->
+
+### Ref2
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section (reference note 2)</u></b></p></summary>
+
+- Will remain redacted for a long time, project group $%ZS
+
+</details> <!-- Reference note 2 !-->
+
+### Ref3
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section (reference note 3)</u></b></p></summary>
+
+- Will remain redacted for a long time, project group $%NEAT
+
+</details> <!-- Reference note 3 !-->
+
+### Ref4
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section (reference note 4)</u></b></p></summary>
+
+- Will remain redacted for a long time, project group $%CU
+
+</details> <!-- Reference note 4 !-->
 
 ***
 
@@ -132,9 +248,9 @@ I am developing software tools to ease and aid the development of lists, and als
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Monday June 26th at 1:23 pm PST)`
+**File version:** `6 (2023, Monday, October 23rd at 04:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `247`
+**Line count (including blank lines and compiler line):** `411`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -154,6 +270,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
+---
+
 <details><summary><p lang="en"><b>Version 1 (2022, Monday, August 15th at 12:51 am PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -169,6 +287,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
+---
+
 <details><summary><p lang="en"><b>Version 2 (2022, Monday, August 15th at 8:41 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -183,6 +303,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [ ] No other changes in version 2
 
 </details>
+
+---
 
 <details><summary><p lang="en"><b>Version 3 (2022, Wednesday, August 17th at 9:32 pm PST)</b></p></summary>
 
@@ -200,6 +322,8 @@ _With this commit, this project has reached 100 commits_
 
 </details>
 
+---
+
 <details><summary><p lang="en"><b>Version 4 (2022, Thursday, August 18th at 6:04 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
@@ -214,6 +338,8 @@ _With this commit, this project has reached 100 commits_
 - [ ] No other changes in version 4
 
 </details>
+
+---
 
 <details><summary><p lang="en"><b>Version 5 (2023, Monday, June 26th at 1:23 pm PST)</b></p></summary>
 
@@ -233,7 +359,45 @@ _With this commit, this project has reached 100 commits_
 
 </details>
 
+---
+
+<details><summary><p lang="en"><b>Version 6 (2023, Monday, October 23rd at 04:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This project is updated each time a new milestone is met. This time, it was with the GOI project hitting 16384 commits._
+
+> Changes:
+
+- [x] Updated the title section
+- - [x] Added a new logo with a tooltip
+- - [x] Centered the title
+- [x] Updated the main table
+- - [x] Added the `750` entry
+- - [x] Added the `4000` entry
+- - [x] Removed the `16348` typo section
+- - [x] Bolded the **16384** entry to confirm they have data (data was recently added)
+- [x] Updated the `Frequently asked questions` section
+- - [x] Updated the `What is with the random numbers? 65536, 1048576, etc.` subsection
+- - - [x] Added the `Powers of 2 reference table` sub-subsection
+- - [x] Added the `What is with redacted entries` subsection
+- - - [x] Added the `Redacted projects reference` sub-subsection
+- [x] Added the `References` section
+- - [x] Added `Reference 1`
+- - [x] Added `Reference 2`
+- - [x] Added `Reference 3`
+- - [x] Added `Reference 4`
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 6
+
 </details>
+
+---
+
+</details>
+
+</details> <!-- End of article !-->
 
 ***
 
